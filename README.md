@@ -1,6 +1,6 @@
 # หมายศาลสไนเปอร์(twitter-aungpao-snipe)
 
-before use change AUTH_TOKEN_HERE and X_TOKEN_HERE with your twitter account
+before use change AUTH_TOKEN_HERE and X_TOKEN_HERE and phone number with your twitter account
 
 ## Installation
 ```sh
