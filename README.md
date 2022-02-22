@@ -1,5 +1,7 @@
 # หมายศาลสไนเปอร์(twitter-aungpao-snipe)
 
+before use change AUTH_TOKEN_HERE and X_TOKEN_HERE with your twitter account
+
 ## Installation
 ```sh
 git clone https://github.com/Larinax999/twitter-aungpao-snipe.git
