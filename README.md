@@ -1,4 +1,4 @@
-# หมายศาลสไนเปอร์(twitter-aungpao-snipe)
+# หมายศาลสไนเปอร์(twitter-aungpao-snipe) (PATCH)
 
 before use change AUTH_TOKEN_HERE and X_TOKEN_HERE and phone number with your twitter account
 
