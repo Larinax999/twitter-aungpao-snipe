@@ -2,6 +2,8 @@
 
 before use change AUTH_TOKEN_HERE and X_TOKEN_HERE and phone number with your twitter account
 
+!! NO RESELL OR DISCREDIT!!
+
 ## Installation
 ```sh
 git clone https://github.com/Larinax999/twitter-aungpao-snipe.git
