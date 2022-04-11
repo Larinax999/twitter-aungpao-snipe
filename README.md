@@ -1,4 +1,4 @@
-# หมายศาลสไนเปอร์(twitter-aungpao-snipe) (PATCH)
+# หมายศาลสไนเปอร์(twitter-aungpao-snipe) (WORKING 11/04/2022)
 
 before use change AUTH_TOKEN_HERE and X_TOKEN_HERE and phone number with your twitter account
 
@@ -14,3 +14,4 @@ npm i
 - no memory leak (larinax999 : 50MB-70MB, chanios : 50MB-4GB+)
 - have chance 99.99% to get 2 times
 - fast
+- bypass cf truemoney
