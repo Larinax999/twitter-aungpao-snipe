@@ -2,7 +2,7 @@
 
 before use change AUTH_TOKEN_HERE and X_TOKEN_HERE with your twitter account and phone number
 
-!! NO RESELL OR DISCREDIT !!
+!! NO SELL OR DISCREDIT !!
 
 ## Installation
 ```sh
